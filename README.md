@@ -36,3 +36,13 @@ conda activate telebot
 ```bash
 pip install -r requirements.txt
 ```
+## Telegram Setup:
+
+1. Search for botfather
+2. /newbot
+   - gandu_robot
+   - gandu_robot_bot
+
+   * Now click on url to access the bot
+   * Make sure you collect the access token
+
