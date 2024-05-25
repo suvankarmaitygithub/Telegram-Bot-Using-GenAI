@@ -46,3 +46,9 @@ pip install -r requirements.txt
    * Now click on url to access the bot
    * Make sure you collect the access token
 
+### Add in .env
+
+```ini
+OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+TELEGRAM_BOT_TOKEN=xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+```
